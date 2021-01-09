@@ -1,0 +1,92 @@
+Date : 2020-03-04 17:24:10
+Directory : c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main
+Total : 53 files,  2505 codes, 540 comments, 431 blanks, all 3476 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         50 |      2,502 |        540 |        431 |      3,473 |
+| JSON     |          3 |          3 |          0 |          0 |          3 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                        |         53 |      2,505 |        540 |        431 |      3,476 |
+| deploy                                                                                                                                   |          3 |          3 |          0 |          0 |          3 |
+| java                                                                                                                                     |         50 |      2,502 |        540 |        431 |      3,473 |
+| java\frc                                                                                                                                 |         50 |      2,502 |        540 |        431 |      3,473 |
+| java\frc\robot                                                                                                                           |         50 |      2,502 |        540 |        431 |      3,473 |
+| java\frc\robot\commands                                                                                                                  |         22 |        387 |        290 |        145 |        822 |
+| java\frc\robot\commands\autos                                                                                                            |          3 |         41 |         42 |         12 |         95 |
+| java\frc\robot\commands\controls                                                                                                         |         18 |        327 |        234 |        125 |        686 |
+| java\frc\robot\commands\tests                                                                                                            |          1 |         19 |         14 |          8 |         41 |
+| java\frc\robot\sensors                                                                                                                   |          5 |        239 |         18 |         35 |        292 |
+| java\frc\robot\subsystems                                                                                                                |          7 |        674 |         98 |         71 |        843 |
+| java\frc\robot\tools                                                                                                                     |          8 |        680 |         58 |         82 |        820 |
+| java\frc\robot\tools\controlLoops                                                                                                        |          3 |        407 |         33 |         39 |        479 |
+| java\frc\robot\tools\math                                                                                                                |          2 |         65 |          0 |          5 |         70 |
+| java\frc\robot\tools\pathTools                                                                                                           |          3 |        208 |         25 |         38 |        271 |
++------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                 | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\deploy\Center3Highgoal.wpilib.json                                   | JSON     |          1 |          0 |          0 |          1 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\deploy\Right3HighGoal2.wpilib.json                                   | JSON     |          1 |          0 |          0 |          1 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\deploy\Right3Highgoal1.wpilib.json                                   | JSON     |          1 |          0 |          0 |          1 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\ButtonMap.java                                        | Java     |         98 |         11 |          4 |        113 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\CommandSuites.java                                    | Java     |         33 |          9 |          6 |         48 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\Main.java                                             | Java     |          9 |         16 |          5 |         30 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\OI.java                                               | Java     |          8 |         10 |          4 |         22 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\Robot.java                                            | Java     |        126 |          6 |         18 |        150 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\RobotConfig.java                                      | Java     |        122 |          9 |         21 |        152 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\RobotMap.java                                         | Java     |        108 |          6 |         36 |        150 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\RobotStats.java                                       | Java     |         18 |          9 |          4 |         31 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\autos\CenterHighGoalAuto.java                | Java     |         18 |         14 |          4 |         36 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\autos\CrossLine.java                         | Java     |          9 |         14 |          4 |         27 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\autos\RightAdvancedAuto.java                 | Java     |         14 |         14 |          4 |         32 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\ArmSetPosition.java                 | Java     |         13 |         11 |          5 |         29 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\AutoFiringSequence.java             | Java     |          9 |         14 |          4 |         27 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\ChangeLightRingState.java           | Java     |         13 |         11 |          5 |         29 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\ConditionalSetFlyWheelVelocity.java | Java     |         23 |         14 |          8 |         45 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\ConditionalSetHoodPosition.java     | Java     |         24 |         14 |          9 |         47 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\DeadReackonDrive.java               | Java     |         35 |         14 |         10 |         59 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\DeployClimber.java                  | Java     |         10 |         14 |          5 |         29 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\FireSequence.java                   | Java     |          9 |         16 |          5 |         30 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\MagazineAutomation.java             | Java     |          8 |         14 |          4 |         26 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\MagazineControl.java                | Java     |         29 |         14 |         10 |         53 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\SetFlyWheelVelocity.java            | Java     |         14 |         11 |          6 |         31 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\SetHoodPosition.java                | Java     |         13 |         11 |          6 |         30 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\SetIntakeSpeed.java                 | Java     |         13 |         11 |          5 |         29 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\SetPiston.java                      | Java     |         27 |         12 |         11 |         50 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\ShootingSequence.java               | Java     |          9 |         14 |          5 |         28 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\TimedMagazineRun.java               | Java     |         28 |         14 |         10 |         52 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\TrackVisionTarget.java              | Java     |         30 |         14 |         12 |         56 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\controls\WachetSpeed.java                    | Java     |         20 |         11 |          5 |         36 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\commands\tests\test.java                              | Java     |         19 |         14 |          8 |         41 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\sensors\DriveEncoder.java                             | Java     |         30 |          0 |          6 |         36 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\sensors\FlywheelEncoder.java                          | Java     |          5 |          9 |          4 |         18 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\sensors\LidarLite.java                                | Java     |         24 |          9 |          5 |         38 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\sensors\Navx.java                                     | Java     |         70 |          0 |          7 |         77 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\sensors\VisionCamera.java                             | Java     |        110 |          0 |         13 |        123 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\subsystems\Arm.java                                   | Java     |        102 |         23 |         11 |        136 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\subsystems\Climber.java                               | Java     |         40 |         10 |          5 |         55 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\subsystems\DriveTrain.java                            | Java     |        246 |         10 |         28 |        284 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\subsystems\Hood.java                                  | Java     |         99 |         18 |          7 |        124 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\subsystems\Intake.java                                | Java     |         36 |         10 |          6 |         52 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\subsystems\Magazine.java                              | Java     |         84 |         14 |          7 |        105 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\subsystems\Shooter.java                               | Java     |         67 |         13 |          7 |         87 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\tools\controlLoops\CascadingPIDTurn.java              | Java     |         49 |         10 |         11 |         70 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\tools\controlLoops\PID.java                           | Java     |         93 |          1 |         14 |        108 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\tools\controlLoops\PurePursuitController.java         | Java     |        265 |         22 |         14 |        301 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\tools\math\Point.java                                 | Java     |         33 |          0 |          3 |         36 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\tools\math\Vector.java                                | Java     |         32 |          0 |          2 |         34 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\tools\pathTools\Odometry.java                         | Java     |        146 |         16 |         16 |        178 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\tools\pathTools\PathList.java                         | Java     |         27 |          9 |         12 |         48 |
+| c:\Users\Simon Hempel\Documents\2020-Chronostar\Chronostar\src\main\java\frc\robot\tools\pathTools\PathSetup.java                        | Java     |         35 |          0 |         10 |         45 |
+| Total                                                                                                                                    |          |      2,505 |        540 |        431 |      3,476 |
++------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
